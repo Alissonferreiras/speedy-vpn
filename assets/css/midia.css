@@ -1,0 +1,605 @@
+@media screen and (max-width: 1218px) {
+    .div-decoração-main4{
+        width: 1000px;
+        margin: 0 auto;
+    }
+    .img-decoração{
+        width: 1000px;
+        
+    }
+}
+@media screen and (max-width: 1176px) {
+    .teste-velocidade{
+        right: 250px;
+    }
+    
+}
+@media screen and (max-width: 1148px) {
+    .teste-velocidade{
+        right: 200px;
+    }
+}
+@media screen and (max-width: 1098px) {
+    .teste-velocidade{
+        right: 150px;
+    }
+    .div-esquerda-main1{
+        width: 490px;
+    }
+    .div-connected{
+        left: 360px;
+    }
+    .div-direita-main1{
+        width: 470px;
+    }
+    .h2-direita-main1{
+        font-size: 40px;
+    }
+    .planos-preços{
+        gap: 40px;
+    }
+    .div-regular{
+        width: 330px;
+        padding-left: 20px;
+    }
+    .div-regular-2{
+        width: 330px;
+        padding-left: 20px;
+    }
+}
+@media screen and (max-width: 1059px) {
+    .planos-preços{
+        gap: 30px;
+    }
+    .div-regular{
+        width: 310px;
+        padding-left: 10px;
+    }
+    .div-regular-2{
+        width: 310px;
+        padding-left: 10px;
+    }
+    .btn-get{
+        width: 280px;
+    }
+}
+@media screen and (max-width: 1046px) {
+    .teste-velocidade{
+        right: 70px;
+    }
+    .div1-header{
+        width: 750px;
+        
+    }
+    .elipse-main1{
+        max-width: 496px;
+        height: 543px;
+        
+    }
+    .div-decoração-main4{
+        width: 800px;
+        height: 400px;
+        margin: 0 auto;
+    }
+    .img-decoração{
+        width: 800px;
+        height: 400px;
+        
+    }
+    .text-main4{
+        left: 50px;
+        top: 80px;
+    }
+}
+@media screen and (max-width: 976px) {
+    .div1-header{
+        width: 700px;
+        
+    }
+    h1{
+        font-size: 45px;
+    }
+    .planos-preços{
+        gap: 20px;
+    }
+    .div-regular{
+        width: 290px;
+        padding-left: 10px;
+    }
+    .div-regular-2{
+        width: 290px;
+        padding-left: 10px;
+    }
+    .btn-get{
+        width: 270px;
+    }
+    .vantagens{
+        gap: 10px;
+    }
+    .section-usuario{
+        gap: 20px;
+    }
+    .usuario-1{
+        width: 290px;
+    }
+    .usuario-2{
+        width: 290px;
+    }
+}
+@media screen and (max-width: 943px) {
+    .div1-header{
+        width: 650px;
+        
+    }
+
+    h1{
+        font-size: 40px;
+    }
+    .h2-direita-main1{
+        font-size: 35px;
+    }
+    .paragrafo-usuario{
+        font-size: 13px;
+    }
+    
+    
+}
+@media screen and (max-width: 902px) {
+    .p-vantagens{
+        font-size: 15px;
+    }
+    .planos-preços{
+        gap: 15px;
+    }
+    .div-regular{
+        width: 270px;
+        padding-left: 5px;
+    }
+    .div-regular-2{
+        width: 270px;
+        padding-left: 5px;
+    }
+    .btn-get{
+        width: 250px;
+    }
+    .vantagens{
+        gap: 6px;
+    }
+    .section3-main{
+        gap: 15px;
+    }
+    .usuario-1{
+        width: 270px;
+    }
+    .usuario-2{
+        width: 270px;
+    }
+    .img-usuario{
+        width: 30px;
+        height: 30px;
+    }
+    .nome-usuario{
+        font-size: 13px;
+    }
+    .cidade-usuario{
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 894px) {
+    header{
+        padding-top: 10px; 
+     }
+    .ul1-header{
+        display: none;
+    }
+    .ul2-header{
+        display: none;
+    }
+    .div2-header{
+        padding-right: 30px;
+    }
+    .icone-menu{
+        display: block;
+        max-width: 50px;
+        height: 50px;  
+        object-fit: cover;
+    }
+    .div1-header{
+        width: 173px;
+    }
+    .elipse-header{
+        max-width: 400px;
+        max-height: 400px;
+    }
+    .teste-velocidade{
+        width: 300px;
+        height: 96px;
+        top: 250px;
+       
+    }
+    .h2-direita-main1{
+        font-size: 30px;
+    }
+    .div-connected{
+        left: 310px;
+    }
+    .elipse-main1{
+        max-width: 436px;
+        height: 493px;
+        
+    }
+}
+@media screen and (max-width: 856px) {
+    
+     .nome-usuario{
+        font-size: 12px;
+     }
+     .usuario-1{
+        padding-left: 10px;
+     }
+     .usuario-2{
+        padding-left: 10px;
+     }
+     .div-decoração-main4{
+        width: 600px;
+        height: 280px;
+        margin: 0 auto;
+    }
+    .img-decoração{
+        width: 600px;
+        height: 280px;
+        
+    }
+    .text-main4{
+        left: 20px;
+        top: 20px;
+        width: 350px;
+    }
+    .h2-main4{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width: 816px) {
+    .p-vantagens{
+        font-size: 14px;
+    }
+    .planos-preços{
+        gap: 10px;
+    }
+    .div-regular{
+        width: 250px;
+        padding-left: 5px;
+    }
+    .div-regular-2{
+        width: 250px;
+        padding-left: 5px;
+    }
+    .btn-get{
+        width: 220px;
+    }
+    .vantagens{
+        gap: 6px;
+    }
+    .icone-verificado{
+        margin-bottom: 15px;
+    }
+}
+@media screen and (max-width: 796px) {
+    h1{
+        font-size: 35px;
+    }
+    .div-connected{
+        left: 280px;
+    }
+    .elipse-main1{
+        max-width: 406px;
+        height: 463px;
+        
+    }
+    .div-esquerda-main1{
+        height: 470px;
+    }
+    .usuario-1{
+        padding-right: 10px;
+     }
+     .usuario-2{
+        padding-right: 10px;
+     }
+}
+@media screen and (max-width: 764px) {
+    .icone-verificado{
+        margin-bottom: 20px;
+    }
+    .perfil-usuario{
+        gap: 5px;
+    }
+    .usuario-1{
+        padding-right: 5px;
+     }
+     .usuario-2{
+        padding-right: 5px;
+     }
+}
+@media screen and (max-width: 740px) {
+    h1{
+        font-size: 30px;
+    }
+    .p-vantagens{
+        font-size: 14px;
+    }
+    .planos-preços{
+        gap: 10px;
+    }
+    .div-regular{
+        width: 220px;
+        padding-left: 5px;
+    }
+    .div-regular-2{
+        width: 220px;
+        padding-left: 5px;
+    }
+    .btn-get{
+        width: 190px;
+        margin-left: 10px;
+    }
+    .vantagens{
+        gap: 6px;
+    }
+    .section-usuario{
+        gap: 10px;
+    }
+    .usuario-1{
+        width: 250px;
+    }
+    .usuario-2{
+        width: 250px;
+    }
+}
+@media screen and (max-width: 708px) {
+    .h2-direita-main1{
+        font-size: 25px;
+    }
+    .div-connected{
+        left: 260px;
+    }
+    .elipse-main1{
+        max-width: 386px;
+        height: 443px;
+        
+    }
+    .div-esquerda-main1{
+        height: 470px;
+    }
+}
+@media screen and (max-width: 704px) {
+    .section-principal-header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .section-nav-header{
+        width: 327px;
+        
+        
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .icone-menu{
+        padding: 0;
+    }
+    
+    .div-header-esquerda{
+        width: 327px;
+        padding-top: 0;
+        margin-bottom: 15px;
+    }
+    h1{
+        font-size: 24px;
+    }
+    .div-header-desktop{
+        display: none;
+    }
+    .elipse-header{
+        width: 331px;
+        height: 337px;
+    }
+    .teste-velocidade{
+        width: 331px;
+        height: 96px;
+        top: 250px;
+        right: 0;
+       
+    }
+    .div-header-mobile{
+        display: block;
+        width: 327px;
+    }
+    main{
+        padding-top: 0;
+    }
+    .section1-main{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        gap: 30px;
+    }
+    .div-direita-main1{
+        width: 327px;
+    }
+    .h2-direita-main1{
+        font-size: 24px;
+    }
+    .div-esquerda-main1{
+        width: 327px;
+        height: 343px;
+    }
+    .elipse-main1{
+        width: 327px;
+        height: 343px;
+        
+    }
+    .div-connected{
+        left: 200px;
+    }
+    .div-main-desktop{
+        display: none;
+    }
+    .div-main-mobile{
+        display: block;
+        width: 327px;
+    }
+    .btn-register{
+        width: 327px;
+        height: 52px;
+    }
+    .texto-preço{
+        width: 327px;
+        margin: 0 auto;
+    }
+    .h2-price{
+        font-size: 24px;
+    }
+    .div-regular{
+        width: 327px;
+        margin: 0 auto;
+        padding-left: 20px;
+
+    }
+    .div-regular-2{
+        display: none;
+    }
+    .p-vantagens{
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .planos-preços{
+        margin-top: 30px;
+        display: block;
+    }
+    .btn-get{
+        width: 279px;
+        margin-left: 0;
+    }
+    .div-elipse-price{
+        display: flex;
+        justify-content: space-between;
+        width: 56px;
+        height: 8px;
+        margin: 30px auto;
+    }
+    .elipse-price1{
+        width: 8px;
+        height: 8px;
+        background: #01A3C2;
+        border-radius: 50%;
+    }
+    .elipse-price2{
+        width: 8px;
+        height: 8px;
+        background: #cccccc;
+        border-radius: 50%;
+    }
+    .section-usuario{
+        margin-top: 10px;
+        display: block;
+    }
+    .div-usuario{
+        width: 334px;
+        height: 121px;
+        margin-bottom: 0;
+    }
+    .h2-usuario{
+        font-size: 24px;
+    }
+    .usuario-1{
+        width: 327px;
+        height: 198px;
+        margin: 0 auto;
+        padding-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        
+    }
+    .perfil-usuario{
+        gap: 10px;
+    }
+    .img-usuario{
+        width: 40px;
+        height: 40px;
+    }
+    .nome-usuario{
+        font-size: 14px;
+    }
+    .cidade-usuario{
+        font-size: 13px;
+    }
+    .usuario-2{
+        display: none;
+    }
+    .section4-main{
+        padding-top: 20px;
+    }
+    .div-decoração-main4{
+        display: none;
+    }
+    .div-decoração-mobile{
+        display: block;
+        width: 327px;
+        height: 645px;
+        margin: 0 auto;
+        position: relative;
+    }
+    .img-decoração-mobile{
+        width: 327px;
+        height: 645px;
+
+    }
+    .text-decoração-mobile{
+        width: 295px;
+        height: 317px;
+        position: absolute;
+        top: 70px;
+        left: 15px;
+        text-align: center;
+    }
+    .h2-text-mobile{
+        font-size: 24px;
+        color: #ffffff;
+    }
+    .p-text-mobile{
+        font-size: 16px;
+        color: #ffffff8b;
+        padding-top: 80px;
+    }
+    .btn-book{
+        width: 144px;
+        height: 52px;
+        border-radius: 25px;
+        border: none;
+        color: #01A3C2;
+        background: #ffffff;
+        font-size: 16px;
+        margin-top: 25px;
+    }
+    .section-footer{
+      display: block;
+    }
+    .listas-footer{
+        flex-wrap: wrap;
+        margin: 30px auto;
+        width: 327px;
+        gap: 20px;
+    }
+    .div1-footer{
+        width: 327px;
+        margin: 0 auto;
+        text-align: start;
+    }
+
+
+
+
+}
